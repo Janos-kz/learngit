@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 dev
 fixed in git3
+9/12 fixed in git2
